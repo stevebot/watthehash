@@ -1,0 +1,7 @@
+Right now this is a basic SpringMVC app that uses the Google Geocoding API and Twitter API to find tweets near a specific region.
+
+TODOS:
+# Have an autocomplete for address
+# Let the user specify the radius
+# Make the UI look cool
+# Show a google Map of the location with tweets marked up on the map
